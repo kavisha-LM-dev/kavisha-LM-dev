@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Kavisha! 👋
 
-<!--
-**kavisha-LM-dev/kavisha-LM-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Undergraduate
+💻 Interested in Software Development
+🤖 Exploring Artificial Intelligence and Machine Learning
 
-Here are some ideas to get you started:
+## 🌱 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 I am an undergraduate studying Software Engineering.
+* 💻 I enjoy learning programming and developing software applications.
+* 🤖 I am interested in AI and Machine Learning.
+* 🚀 I am continuously improving my technical and problem-solving skills.
+
+## 🛠️ Technologies & Tools
+
+* Java
+* Python
+* Spring Boot
+* HTML & CSS
+* SQL
+* Git & GitHub
+
+## 🚀 Projects
+
+* 🐘 Web-Based Wildlife Safari Trip Management System
+* 🩻 Chest X-ray Pneumonia Classification
+* 📊 National Poll on Healthy Aging (NPHA) Machine Learning Project
+
+## 🎯 My Goal
+
+To become a skilled software developer and explore innovative solutions using software engineering and AI.
+
+
+⭐ Thanks for visiting my profile!
+
+
